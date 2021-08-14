@@ -23,7 +23,7 @@ main {
 #bg {
   grid-area: left;
 
-  background: url('img/ilustracao.svg') no-repeat top/contain;
+  background: url("img/ilustracao.svg") no-repeat top/contain;
   background-position-x: -0.1rem;
 }
 
